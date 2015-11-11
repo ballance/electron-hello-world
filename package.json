@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-e",
+  "version": "1.0.0",
+  "description": "Just a hello world for electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello there from electron node and stuff');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "Chris Ballance",
+  "license": "MIT"
+}
