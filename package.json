@@ -15,5 +15,9 @@
     "keyword2"
   ],
   "author": "Chris Ballance",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron-builder": "^2.1.1",
+    "electron-prebuilt": "^0.34.3"
+  }
 }
