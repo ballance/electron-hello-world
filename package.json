@@ -2,13 +2,13 @@
   "name": "hello-world-e",
   "version": "1.0.0",
   "description": "Just a hello world for electron",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "console.log('hello there from electron node and stuff');"
+    "test": "echo('hello there from electron node and stuff');"
   },
   "repository": {
     "type": "git",
-    "url": "."
+    "url": "https://github.com/ballance/electron-hello-world/"
   },
   "keywords": [
     "keyword1",
